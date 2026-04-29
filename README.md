@@ -1,4 +1,4 @@
-# Merhaba, ben Yaren Demirli
+# Yaren Demirli
 
 Bilgisayar mühendisliği 3. sınıf öğrencisiyim. Yazılım geliştirme alanında kendimi aktif olarak geliştirmekteyim ve özellikle web projeleri üzerinde çalışıyorum.
 
@@ -10,9 +10,9 @@ Bilgisayar mühendisliği 3. sınıf öğrencisiyim. Yazılım geliştirme alan�
 
 ## Teknik İlgi Alanlarım
 
-- Web geliştirme (Frontend ve Backend)  
-- Kullanıcı arayüzü tasarımı  
-- Yazılım geliştirme süreçleri  
+- Web tabanlı projeler geliştiriyorum  
+- Kullanıcı arayüzü tasarımı üzerinde çalışıyorum  
+- Git ve GitHub kullanarak projelerimi yönetiyorum  
 
 ## Kullandığım Teknolojiler
 
