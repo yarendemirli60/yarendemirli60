@@ -1,16 +1,26 @@
-## Hi there 👋
+# Merhaba, ben Yaren Demirli
 
-<!--
-**yarendemirli60/yarendemirli60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bilgisayar mühendisliği 3. sınıf öğrencisiyim. Yazılım geliştirme alanında kendimi aktif olarak geliştirmekteyim ve özellikle web projeleri üzerinde çalışıyorum.
 
-Here are some ideas to get you started:
+## Hakkımda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- İstanbul Arel Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.  
+- Frontend ve backend alanlarında projeler geliştiriyorum.  
+- Yeni teknolojileri öğrenip uygulamaya odaklanıyorum.  
+
+## Teknik İlgi Alanlarım
+
+- Web geliştirme (Frontend ve Backend)  
+- Kullanıcı arayüzü tasarımı  
+- Yazılım geliştirme süreçleri  
+
+## Kullandığım Teknolojiler
+
+- HTML, CSS, JavaScript  
+- React  
+- Node.js ve Express.js  
+- Git ve GitHub  
+
+## Hedefim
+
+Yazılım alanında kendimi geliştirerek gerçek projelerde yer almak, problem çözme yeteneğimi ilerletmek ve profesyonel iş hayatına güçlü bir başlangıç yapmaktır.
