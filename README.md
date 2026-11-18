@@ -1,26 +1,17 @@
-# Yaren Demirli
+# Merhaba, ben Yaren Demirli 👋
 
-Bilgisayar mühendisliği 3. sınıf öğrencisiyim. Yazılım geliştirme alanında kendimi aktif olarak geliştirmekteyim ve özellikle web projeleri üzerinde çalışıyorum.
+İstanbul Arel Üniversitesi'nde 3. sınıf bilgisayar mühendisliği öğrencisiyim. Web geliştirmeye ilgi duyuyorum ve hem kullanıcı arayüzü hem de sunucu tarafında projeler geliştiriyorum.
 
-## Hakkımda
+## Kullandığım teknolojiler
 
-- İstanbul Arel Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.  
-- Frontend ve backend alanlarında projeler geliştiriyorum.  
-- Yeni teknolojileri öğrenip uygulamaya odaklanıyorum.  
-
-## Teknik İlgi Alanlarım
-
-- Web tabanlı projeler geliştiriyorum  
-- Kullanıcı arayüzü tasarımı üzerinde çalışıyorum  
-- Git ve GitHub kullanarak projelerimi yönetiyorum  
-
-## Kullandığım Teknolojiler
-
-- HTML, CSS, JavaScript  
-- React  
-- Node.js ve Express.js  
-- Git ve GitHub  
+| Alan | Teknolojiler |
+| --- | --- |
+| Frontend | HTML, CSS, JavaScript, React |
+| Backend | Node.js, Express.js |
+| Sürüm kontrolü | Git, GitHub |
 
 ## Hedefim
 
-Yazılım alanında kendimi geliştirerek gerçek projelerde yer almak, problem çözme yeteneğimi ilerletmek ve profesyonel iş hayatına güçlü bir başlangıç yapmaktır.
+Ekip içinde gerçek projelere katkı sunmak, yazılım geliştirme deneyimimi artırmak ve problem çözme becerilerimi geliştirmek.
+
+[GitHub projelerime göz at](https://github.com/yarendemirli60?tab=repositories)
